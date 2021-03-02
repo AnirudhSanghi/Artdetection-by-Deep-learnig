@@ -5,7 +5,7 @@ import numpy as np
 import pathlib
 import cv2
 
-
+###change for github testing
 checkpoint_path_1 = "training_temp(plain)/cp.ckpt"          #setting checkpoint path to acccess trained model later
 checkpoint_path_2 = "training_main(plain)/cp.ckpt"          #where it was left
 checkpoint_dir = os.path.dirname(checkpoint_path_1)
